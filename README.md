@@ -2,7 +2,7 @@
 spring cloud 相关组件demo
 
 ps:
-   demo相关教程来自https://www.fangzhipeng.com/
+   demo相关教程来自https://blog.csdn.net/forezp/article/details/70148833
 
 spring cloud 使用的版本 
 Finchley.RELEASE
