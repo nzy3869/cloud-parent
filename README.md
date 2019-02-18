@@ -1,6 +1,9 @@
 # cloud-parent
 spring cloud 相关组件demo
 
+ps:
+   demo相关教程来自https://www.fangzhipeng.com/
+
 spring cloud 使用的版本 
 Finchley.RELEASE
 
